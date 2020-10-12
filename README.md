@@ -43,7 +43,7 @@ Happy is an application that allows users to search for orphanages in their regi
   <tr>
     <td align="center"><a href="https://github.com/diego3g"><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/2254731?s=400&u=0ba16a79456c2f250e7579cb388fa18c5c2d7d65&v=4" width="100px;" alt=""/><br /><sub><b>Diego Fernandes</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a></td>
     <td align="center" display="flex"><a href="https://github.com/maykbrito"><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/6643122?s=400&u=1e9e1f04b76fb5374e6a041f5e41dce83f3b5d92&v=4" width="100px;" alt=""/><br /><sub><b>Mayk Brito</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a></td>
-    <td align="center" display="flex"><a href="https://github.com/Rocketseat"><img style="border-radius: 50%;" src="https://avatars0.githubusercontent.com/u/28929274?s=200&v=4" width="100px;" alt=""/><br /><sub><b>Team Rocketseat</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a></td>
+    <td align="center" display="flex"><a href="https://github.com/Rocketseat"><img style="border-radius: 50%;" src="https://avatars0.githubusercontent.com/u/28929274?s=200&v=4" width="100px;" alt=""/><br /><sub><b>Rocketseat Team</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a></td>
   </tr>
   <tr>
 </table>
@@ -52,7 +52,7 @@ Happy is an application that allows users to search for orphanages in their regi
 
 # :construction: *__STATUS__*
 
-+ Em construção
++ In construction
  
 <img width="350" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
 
@@ -67,7 +67,7 @@ Happy is an application that allows users to search for orphanages in their regi
 
 *__Vitor Alves Pereira__*
   
-Estudante de Web Design, UI/UX Design, HTML, CSS, Javascript e React na Origamid.
+Student of Web Design, UI/UX Design, HTML, CSS, Javascript and React at Origamid.
 
 <div style="float">
   
