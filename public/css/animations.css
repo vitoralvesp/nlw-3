@@ -11,8 +11,54 @@
   }
 }
 
+@keyframes right {
+  from {
+    transform: translateX(-100%);
+  }
+
+  to {
+    transform: translateX(0);
+  }
+}
+
+@keyframes appear {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes bottom {
+  from {
+    transform: translateY(60%);
+  }
+
+  to {
+    transform: translateY(0);
+  }
+}
+
 .animate-up {
   animation-name: up;
+  animation-duration: 300ms;
+  animation-fill-mode: backwards;
+}
+
+.animate-right {
+  animation-name: right;
+  animation-duration: 700ms;
+}
+
+.animate-bottom {
+  animation-name: bottom;
+  animation-duration: 700ms;
+}
+
+.animate-appear {
+  animation-name: appear;
   animation-duration: 300ms;
   animation-fill-mode: backwards;
 }
