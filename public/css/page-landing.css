@@ -64,7 +64,7 @@
     padding: 5rem 2rem;
     /* shorthand background: image repeat position / size */
     background: url("../images/bg.svg") no-repeat 60% /
-      clamp(30rem, 64vh, 56rem);
+      clamp(30rem, 74vh, 56rem);
   }
   header {
     display: flex;
@@ -86,7 +86,7 @@
   }
 
   main h1 {
-    font-size: 48px;
+    font-size: 56px;
     font-weight: bold;
     line-height: 0.88;
 
