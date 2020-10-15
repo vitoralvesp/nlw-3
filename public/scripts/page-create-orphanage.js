@@ -6,7 +6,7 @@ L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png").addTo(map);
 
 // create icon
 const icon = L.icon({
-  iconUrl: "./public/images/map-marker.svg",
+  iconUrl: "/images/map-marker.svg",
   iconSize: [58, 68],
   iconAnchor: [29, 68],
 });
@@ -68,4 +68,24 @@ function deleteField(event) {
 
   // deletar o campo
   span.parentNode.remove();
+}
+
+// troca do SIM e NÃO
+function toggleSelect(event) {
+  //pegar o botão clicado
+
+  // atualizar o input hidden com o valor selecionado
+  const input = document.querySelector('[name="open_on_weekends"]');
+
+  //verificar se sim ou não
+  input.value = button.dataset.value;
+
+  //retirar a classe active dos botões
+  document.querySelectorAll(".button-select button").forEach(function (button) {
+    button.classList.remove("active");
+  });
+
+  //colocar a classe active no botão clicado
+  const button = event.currentTarget;
+  button.classList.add("active");
 }
