@@ -31,9 +31,9 @@ Happy is an application that allows users to search for orphanages in their regi
 
  # :rocket: *__MORE INFORMATION ABOUT NLW__* 
 
-+ official website: https://rocketseat.com.br/
-+ blog: https://blog.rocketseat.com.br/
-+ next level week (12/10 to 18/10): https://nextlevelweek.com/inscricao/3
+:white_check_mark: official website: https://rocketseat.com.br/ <br>
+:white_check_mark: blog: https://blog.rocketseat.com.br/ <br>
+:white_check_mark: next level week (12/10 to 18/10): https://nextlevelweek.com/inscricao/3 <br>
 
 ---
 
