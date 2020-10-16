@@ -52,9 +52,15 @@ Happy is an application that allows users to search for orphanages in their regi
 
 # :construction: *__STATUS__*
 
-+ In construction
++ CONCLUSED!
  
-<img width="350" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
+<img width="400" src="https://media1.tenor.com/images/7bc651b2eaecdee33700823fbcd017b8/tenor.gif?itemid=8212733">
+
+---
+# :anger: *LINKS*
+
+:white_check_mark: emojis: https://www.webfx.com/tools/emoji-cheat-sheet/
+:white_check_mark: GIFs: https://tenor.com/view/thumbsup-approve-kakashi-naruto-gif-8212733
 
 ---
 
@@ -63,7 +69,6 @@ Happy is an application that allows users to search for orphanages in their regi
 <div height="50" width="50" style="border-radius:50" >
   <img src="https://avatars2.githubusercontent.com/u/68354632?s=96&v=4"/>
 </div>
-
 
 *__Vitor Alves Pereira__*
   
