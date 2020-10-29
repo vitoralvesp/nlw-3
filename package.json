@@ -1,0 +1,26 @@
+{
+  "name": "nlw-3",
+  "version": "1.0.0",
+  "description": "![shields](https://img.shields.io/github/forks/vitoralvesp/nlw-3?color=29B6D1&label=forks&style=for-the-badge)\r   <img src=\"https://img.shields.io/github/license/vitoralvesp/nlw-3?color=29B6D1&style=for-the-badge\"/> \r   <img src=\"https://img.shields.io/github/issues/vitoralvesp/nlw-3?color=29B6D1&style=for-the-badge\"/> \r   <img src=\"https://img.shields.io/github/stars/vitoralvesp/nlw-3?color=29B6D1&style=for-the-badge\"/>\r  [![rocketseat](https://img.shields.io/static/v1?label=PROJECT%20OF&message=ROCKETSEAT&color=8257E6&style=for-the-badge)](https://www.adobe.com/br/products/xd/details.html)",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitoralvesp/NLW-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitoralvesp/NLW-3/issues"
+  },
+  "homepage": "https://github.com/vitoralvesp/NLW-3#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "nodemon": "^2.0.5",
+    "sqlite-async": "^1.1.0"
+  }
+}
